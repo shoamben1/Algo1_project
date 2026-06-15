@@ -1,5 +1,5 @@
 # latin_square_solver.py
-Python implementation of a Latin Square solver using backtracking.
+A Python implementation of a recursive backtracking algorithm for solving partial Latin Squares and counting valid solutions.
 
 ---
 
